@@ -117,10 +117,22 @@ header > * + p{
 	text-indent: 0;
 }
 
+#subchapter-13-1 > p{
+	font-variant: small-caps;
+	text-align: center;
+	font-weight: bold;
+	margin-top: 1.5em;
+}
+
 article > header + *,
 section > header + *{
 	margin-top: 3em;
 }
+
+#subchapter-13-1 + blockquote{
+	margin: 1em 1.5em;
+}
+
 
 a[epub|type~="noteref"]{
 	font-size: .75em;
