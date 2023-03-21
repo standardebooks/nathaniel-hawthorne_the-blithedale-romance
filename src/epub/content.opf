@@ -46,7 +46,6 @@
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008100201</meta>
-		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A young poet joins a communal farm, where he becomes involved in the conflicts arising from the idealism and romantic involvements of his companions.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -57,7 +56,6 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2081</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.202386</dc:source>
-		<dc:source>https://archive.org/details/blithedaleromanc0008unse</dc:source>
 		<meta property="se:production-notes">The PG source was based on a different scan that had some slight differences in spelling and punctuation. The PG text was generally kept when it seemed acceptable.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
