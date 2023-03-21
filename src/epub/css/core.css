@@ -117,11 +117,12 @@ header > * + p{
 	text-indent: 0;
 }
 
-#subchapter-13-1 > p{
+p[epub|type~="z3998:subchapter"]{
 	font-variant: small-caps;
 	font-weight: bold;
 	margin-top: 1.5em;
 	text-align: center;
+	text-indent: 0em;
 }
 
 article > header + *,
@@ -129,7 +130,7 @@ section > header + *{
 	margin-top: 3em;
 }
 
-#subchapter-13-1 + blockquote{
+#chapter-13 blockquote{
 	margin: 1em 1.5em;
 }
 
