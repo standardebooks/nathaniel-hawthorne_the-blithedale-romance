@@ -49,9 +49,8 @@
 		<meta property="se:subject">Drama</meta>
 		<dc:description id="description">A young poet joins a communal farm, where he becomes involved in the conflicts arising from the idealism and romantic involvements of his companions.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Nathaniel Hawthorne&lt;/a&gt; based this work on his experience at Brook Farm, a community in Massachusetts run on socialist concepts. The story is told through the narration of Miles Coverdale, a poet who seeks to get away from the corrupt world and into a society that is based on utopian ideals.&lt;/p&gt;
-			&lt;p&gt;This is one of four romances that Hawthorne wrote between 1850 and 1860. In this romantic tale, the reader is not always sure exactly what is real and what is imagined.&lt;/p&gt;
-			&lt;p/&gt;
+			&lt;p&gt;Miles Coverdale is a young poet who goes to work on a communual farm in New England. He joins other idealists who seek to leave behind what they see as a corrupt society, and to live off the land by honest work. They will escape the world, and at the same time improve it by their example. However, this vision of a new utopia comes into conflict with the romantic desires, past attachments, and private plans of Coverdale’s companions.&lt;/p&gt;
+			&lt;p&gt;Critics noted a strong connection between the fictional story and the non-fictional experiences of Hawthorne’s life. The preface is significant because in it, Hawthorne insists that any such similarities are coincidental, and do not reflect real persons or events. This is one of several “romances” written by Hawthorne, in which he allows more room for imagination and examination of the human heart. There is a sharp contrast between Puritan practicality and morals, and the dreamlike narration of Coverdale.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2081</dc:source>
