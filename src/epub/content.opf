@@ -50,7 +50,7 @@
 		<dc:description id="description">A young poet joins a communal farm, where he becomes involved in the conflicts arising from the idealism and romantic involvements of his companions.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Miles Coverdale is a young poet who goes to work on a communual farm in New England. He joins other idealists who seek to leave behind what they see as a corrupt society, and to live off the land by honest work. They will escape the world, and at the same time improve it by their example. However, this vision of a new utopia comes into conflict with the romantic desires, past attachments, and private plans of Coverdale’s companions.&lt;/p&gt;
-			&lt;p&gt;Critics noted a strong connection between the fictional story and the non-fictional experiences of Hawthorne’s life. The preface is significant because in it, Hawthorne insists that any such similarities are coincidental, and do not reflect real persons or events. This is one of several “romances” written by Hawthorne, in which he allows more room for imagination and examination of the human heart. There is a sharp contrast between Puritan practicality and morals, and the dreamlike narration of Coverdale.&lt;/p&gt;
+			&lt;p&gt;Critics noted a strong connection between the fictional story and the non-fictional experiences of &lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Nathaniel Hawthorne’s&lt;/a&gt; life. The preface is significant because in it, Hawthorne insists that any such similarities are coincidental, and do not reflect real persons or events. This is one of several “romances” written by Hawthorne, in which he allows more room for imagination and examination of the human heart. There is a sharp contrast between Puritan practicality and morals, and the dreamlike narration of Coverdale.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2081</dc:source>
@@ -65,6 +65,7 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Nathaniel_Hawthorne</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79007728</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Andrew W. Warren</dc:contributor>
 		<meta property="file-as" refines="#artist">Warren, Andrew W.</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
