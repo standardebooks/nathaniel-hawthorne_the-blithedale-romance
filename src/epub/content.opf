@@ -67,8 +67,8 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79007728</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
-		<dc:contributor id="artist">Andrew W. Warren</dc:contributor>
-		<meta property="file-as" refines="#artist">Warren, Andrew W.</meta>
+		<dc:contributor id="artist">William Sidney Mount</dc:contributor>
+		<meta property="file-as" refines="#artist">Mount, William Sidney</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Michael Pullen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Pullen, Michael</meta>
