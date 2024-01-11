@@ -73,9 +73,12 @@
 		<dc:contributor id="transcriber-1">Michael Pullen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Pullen, Michael</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Tom Gannett. HTML version by Al Haines</dc:contributor>
+		<dc:contributor id="transcriber-2">Tom Gannett</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Gannett, Tom</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Al Haines</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">Haines, Al</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Jason Livermore</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Livermore, Jason</meta>
 		<meta property="se:url.homepage" refines="#producer-1">https://www.linkedin.com/in/jason-livermore-b854a97</meta>
