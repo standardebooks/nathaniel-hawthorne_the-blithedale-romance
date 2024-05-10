@@ -58,7 +58,7 @@
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.202386</dc:source>
 		<meta property="se:production-notes">The PG source was based on a different scan that had some slight differences in spelling and punctuation. The PG text was generally kept when it seemed acceptable.</meta>
 		<meta property="se:word-count">77440</meta>
-		<meta property="se:reading-ease.flesch">57.5</meta>
+		<meta property="se:reading-ease.flesch">57.61</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Blithedale_Romance</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/nathaniel-hawthorne_the-blithedale-romance</meta>
 		<dc:creator id="author">Nathaniel Hawthorne</dc:creator>
