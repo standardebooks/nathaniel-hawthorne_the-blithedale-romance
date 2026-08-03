@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/nathaniel-hawthorne/the-blithedale-romance</dc:identifier>
 		<dc:date>2023-04-03T18:12:57Z</dc:date>
@@ -49,12 +49,12 @@
 		<meta property="authority" refines="#subject-6">LCSH</meta>
 		<meta property="term" refines="#subject-6">sh2008100201</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young poet joins a communal farm, where he becomes involved in the conflicts arising from the idealism and romantic involvements of his companions.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A young poet joins a communal farm, where he becomes involved in the conflicts arising from the idealism and romantic involvements of his companions.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;Miles Coverdale is a young poet who goes to work on a communal farm in New England. He joins other idealists who seek to leave behind what they see as a corrupt society, and to live off the land by honest work. They will escape the world, and at the same time improve it by their example. However, this vision of a new utopia comes into conflict with the romantic desires, past attachments, and private plans of Coverdale’s companions.&lt;/p&gt;
 			&lt;p&gt;Critics noted a strong connection between the fictional story and the events in &lt;a href="https://standardebooks.org/ebooks/nathaniel-hawthorne"&gt;Hawthorne’s&lt;/a&gt; real life, even though in the preface Hawthorne insists that any such similarities are coincidental and don’t reflect real persons or events.&lt;/p&gt;
 			&lt;p&gt;This is one of several “romances” written by Hawthorne, in which he allows more room for imagination and examination of the human heart. There is a sharp contrast between Puritan practicality and morals, and Coverdale’s dreamlike narration.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2081</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.202386</dc:source>
