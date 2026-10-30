@@ -72,6 +72,8 @@
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">William Sidney Mount</dc:contributor>
 		<meta property="file-as" refines="#artist">Mount, William Sidney</meta>
+		<link href="https://en.wikipedia.org/wiki/William_Sidney_Mount" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n50006681.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Michael Pullen</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Pullen, Michael</meta>
